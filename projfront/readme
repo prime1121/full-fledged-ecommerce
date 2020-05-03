@@ -1,0 +1,6 @@
+-->install all necessary files using npm-install
+
+-->create a .env file and paste the below line
+  REACT_APP_BACKEND=http://localhost:8000/api/
+
+-->npm start
